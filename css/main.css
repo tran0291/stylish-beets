@@ -1,0 +1,40 @@
+html {
+  background-color: #f2f1ed;
+  font-family: "PT Sans", sans-serif;
+  line-height: 2;
+  font-weight: normal;
+}
+
+body {
+  font-family: "PT Serif", serif;
+  text-decoration: none;
+}
+
+h2 {
+  color: #5d8432;
+  text-transform: uppercase;
+}
+
+img {
+  width: 100%;
+}
+
+p {
+  text-align: center;
+  font-style: italic;
+  font-size: 2rem;
+}
+
+a {
+  color: #793284;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #b42885;
+  text-decoration: none;
+}
+
+ol {
+  list-style-type: none;
+}
